@@ -1,5 +1,6 @@
 h1{
   text-align: center;  
 }
-
+body{
 theme: jekyll-theme-dinky;
+}

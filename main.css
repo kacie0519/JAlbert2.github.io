@@ -16,6 +16,6 @@ h1{
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: rgb(221, 221, 221);
   color: black;
 }
